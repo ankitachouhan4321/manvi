@@ -273,7 +273,7 @@ Cool Air`
                                     <th>Position</th>
                                     <th>Department</th>
                                     <th>Qualification / Experience</th>
-                                    <th>Job Type</th>
+                                    <th>Location</th>
                                 </tr>
                             </thead>
 
@@ -285,7 +285,7 @@ Cool Air`
                                     <td>
                                         Diploma / B.Tech / Relevant Experience
                                     </td>
-                                    <td>Full Time</td>
+                                    <td>Delhi</td>
                                 </tr>
 
                                 <tr>
@@ -294,7 +294,7 @@ Cool Air`
                                     <td>
                                         Diploma / Engineering Background
                                     </td>
-                                    <td>Full Time</td>
+                                    <td>Delhi</td>
                                 </tr>
 
                                 <tr>
@@ -304,7 +304,7 @@ Cool Air`
                                         Relevant Technical Qualification /
                                         Experience
                                     </td>
-                                    <td>Full Time</td>
+                                    <td>Delhi</td>
                                 </tr>
 
                                 <tr>
@@ -314,7 +314,7 @@ Cool Air`
                                         HVAC / Industrial Sales Experience
                                         Preferred
                                     </td>
-                                    <td>Full Time</td>
+                                    <td>Delhi</td>
                                 </tr>
 
                                 <tr>
@@ -323,7 +323,7 @@ Cool Air`
                                     <td>
                                         Technical / HVAC Experience Preferred
                                     </td>
-                                    <td>Full Time</td>
+                                    <td>Delhi</td>
                                 </tr>
 
                             </tbody>
