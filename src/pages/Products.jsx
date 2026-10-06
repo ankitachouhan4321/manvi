@@ -122,7 +122,7 @@ const Gallery = () => {
                             <div className="col-lg-3 col-md-4 col-sm-6 mb-4" key={i}>
 
                                 <div
-                                    className="gallery-item"
+                                    className="gallery-item"x
                                     onClick={() => {
                                         setOpen(true);
                                         setIndex(i);
@@ -130,7 +130,7 @@ const Gallery = () => {
                                 >
 
                                     <img
-                                        src={item.image}
+                                        src={item.image} 
                                         className="img-fluid"
                                         alt={item.title}
                                     />
