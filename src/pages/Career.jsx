@@ -55,7 +55,7 @@ const Career = () => {
         // ------------------------------------------------
         // CHANGE THIS EMAIL TO MANVI ENGINEERS HR EMAIL
         // ------------------------------------------------
-        const YOUR_EMAIL = "info.viraladsmedia@gmail.com";
+        const YOUR_EMAIL = "info@manviengineers.com";
 
         form.append("_captcha", "false");
         form.append(

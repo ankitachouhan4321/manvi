@@ -607,9 +607,11 @@ const Home = () => {
                                     <img src={prod3} alt="" className="img-fluid"  />
 
                                     <div className="content">
-                                        <h4>Cabinet Fan Manufacturers</h4>
-                                        <p>Discover our robust Industrial Fans for efficient air circulation. Contact us at +91-9315840756 or visit us in New Delhi, India.</p>
-                                        <Link to="/cabinet-fan-manufacturers" className="sim-btn">Read More <i className="fa-solid fa-arrow-right"></i></Link>
+                                        <h4>Centrifugal Fan Manufacturers</h4>
+                                        <p>
+                                            Manvi Engineers offers high-quality Centrifugal Fans designed for efficient airflow, ventilation, and reliable performance in industrial and commercial applications. Contact us at +91-9315840756 in New Delhi, India.
+                                        </p>
+                                        <Link to="/centrifugal-fan-manufacturers" className="sim-btn">Read More <i className="fa-solid fa-arrow-right"></i></Link>
                                     </div>
                                 </div>
                             </div>
