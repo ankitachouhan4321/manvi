@@ -22,7 +22,7 @@ import RightAirWasherSystem from "./pages/blogpage/RightAirWasherSystem";
 // product-page
 import Airlouversmanufacturers from "./pages/air-louvers-manufacturers"
 import Ahumanufacturers from "./pages/ahu-manufacturers"
-import Cabinetfanmanufacturers from "./pages/Cabinet-fan-manufacturers"
+import CentrifugalFanmanufacturers from "./pages/Centrifugal-Fan-manufacturers"
 import Doubleskinairwashermanufacturers from "./pages/double-skin-air-washer-manufacturers"
 import Airwasherunitmanufacturers from "./pages/air-washer-unit-manufacturers"
 import Ahucoilandcoolingcoilmanufacturers from "./pages/ahu-coil-and-cooling-coil-manufacturers"
@@ -43,9 +43,9 @@ import Aircoolingunit from "./pages/product-det/AHU/air-cooling-unit"
 import Airhandlingunit from "./pages/product-det/AHU/air-handling-unit"
 import Manviahu from "./pages/product-det/AHU/manvi-ahu"
 
-import Industrialfans from "./pages/product-det/Cabinet-Fan/industrial-fans"
-import Directdrivecentrifugalfan from "./pages/product-det/Cabinet-Fan/direct-drive-centrifugal-fan"
-import Ductdirectdrivecentrifugalfans from "./pages/product-det/Cabinet-Fan/duct-direct-drive-centrifugal-fans"
+import Industrialfans from "./pages/product-det/Centrifugal-Fan/industrial-fans"
+import Directdrivecentrifugalfan from "./pages/product-det/Centrifugal-Fan/direct-drive-centrifugal-fan"
+import Ductdirectdrivecentrifugalfans from "./pages/product-det/Centrifugal-Fan/duct-direct-drive-centrifugal-fans"
 
 import Singleskinairwasher from "./pages/product-det/Double-Skin-Air-Washer/single-skin-air-washer"
 import Doubleskinfreshairunit from "./pages/product-det/Double-Skin-Air-Washer/double-skin-fresh-air-unit"
@@ -53,8 +53,8 @@ import Doubleskinfreshairunit from "./pages/product-det/Double-Skin-Air-Washer/d
 import Airwasherdoubleskin from "./pages/product-det/Air-Washer-Unit/air-washer-double-skin"
 import Airwasher from "./pages/product-det/Air-Washer-Unit/air-washer"
 
-import Industrialahucoolingcoil from "./pages/product-det/Ahu-Coil-And-Cooling-Coil/industrial-ahu-cooling-coil"
-import Chilledwatercoilahu from "./pages/product-det/Ahu-Coil-And-Cooling-Coil/chilled-water-coil-ahu"
+import DXCoolingCoil from "./pages/product-det/Ahu-Coil-And-Cooling-Coil/DXCoolingCoil"
+import ChilledWaterCoilForAHU from "./pages/product-det/Ahu-Coil-And-Cooling-Coil/ChilledWaterCoilForAHU"
 
 import Tubeaxialflowfan from "./pages/product-det/Axial-Flow-Fan/tube-axial-flow-fan"
 import Tubeindustrialaxialflowfan from "./pages/product-det/Axial-Flow-Fan/tube-industrial-axial-flow-fan"
@@ -99,7 +99,7 @@ function App() {
 
         <Route path="/air-louvers-manufacturers" element={<Airlouversmanufacturers />} />
         <Route path="/ahu-manufacturers" element={<Ahumanufacturers />} />
-        <Route path="/cabinet-fan-manufacturers" element={<Cabinetfanmanufacturers />} />
+        <Route path="/centrifugal-fan-manufacturers" element={<CentrifugalFanmanufacturers />} />
         <Route path="/double-skin-air-washer-manufacturers" element={<Doubleskinairwashermanufacturers />} />
         <Route path="/air-washer-unit-manufacturers" element={<Airwasherunitmanufacturers />} />
         <Route path="/ahu-coil-and-cooling-coil-manufacturers" element={<Ahucoilandcoolingcoilmanufacturers />} />
@@ -130,8 +130,8 @@ function App() {
         <Route path="/air-washer-double-skin" element={<Airwasherdoubleskin />} />
         <Route path="/air-washer" element={<Airwasher />} />
 
-        <Route path="/industrial-ahu-cooling-coil" element={<Industrialahucoolingcoil />} />
-        <Route path="/chilled-water-coil-ahu" element={<Chilledwatercoilahu />} />
+        <Route path="/dx-cooling-coil" element={<DXCoolingCoil />} />
+        <Route path="/chilled-water-coil-for-ahu" element={<ChilledWaterCoilForAHU />} />
 
         <Route path="/kitchen-exhaust-system" element={<Kitchenexhaustsystem />} />
         <Route path="/commercial-kitchen-exhaust-system" element={<Commercialkitchenexhaustsystem />} />

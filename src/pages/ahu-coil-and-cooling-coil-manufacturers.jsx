@@ -50,13 +50,13 @@ const Ahucoilandcoolingcoilmanufacturers = () => {
                         {/* card start */}
                         <div className="col-lg-3 col-sm-6">
                             <div className="main-box">
-                                <img src="/AHU-Coil-and-Cooling-Coil/1.jpg" className="card-img" alt="Industrial AHU Cooling Coil" />
-                                <h5 className="text-center">Industrial AHU Cooling Coil</h5>
+                                <img src="/AHU-Coil-and-Cooling-Coil/1.jpg" className="card-img" alt="DX Cooling Coil" />
+                                <h5 className="text-center">DX Cooling Coil</h5>
                                 <div className="card-text text-center">
-                                    Industrial AHU Cooling Coils are designed for efficient heat transfer, delivering reliable cooling performance in commercial and industrial HVAC systems.
+                                    DX Cooling Coils are designed for efficient heat transfer and direct expansion cooling, ensuring optimal temperature control, energy efficiency, and reliable performance in commercial and industrial HVAC systems.
                                 </div>
                                 <button className="btn-main">
-                                    <Link to="/industrial-ahu-cooling-coil">
+                                    <Link to="/dx-cooling-coil">
                                         <i className="fa-solid fa-arrow-right"></i> View More
                                     </Link>
                                 </button>
@@ -67,12 +67,12 @@ const Ahucoilandcoolingcoilmanufacturers = () => {
                         <div className="col-lg-3 col-sm-6">
                             <div className="main-box">
                                 <img src="/AHU-Coil-and-Cooling-Coil/2.jpg" className="card-img" alt="Chilled Water Coil AHU" />
-                                <h5 className="text-center">Chilled Water Coil AHU</h5>
+                                <h5 className="text-center">Chilled Water Coil For AHU</h5>
                                 <div className="card-text text-center">
-                                    Chilled Water Coil AHUs provide efficient temperature control and consistent airflow for high-performance industrial and commercial HVAC applications.
+                                    Chilled Water Coils for AHUs are designed for efficient heat transfer and precise temperature control, ensuring consistent cooling, energy efficiency, and reliable performance in commercial and industrial HVAC systems.
                                 </div>
                                 <button className="btn-main">
-                                    <Link to="/chilled-water-coil-ahu">
+                                    <Link to="/chilled-water-coil-for-ahu">
                                         <i className="fa-solid fa-arrow-right"></i> View More
                                     </Link>
                                 </button>

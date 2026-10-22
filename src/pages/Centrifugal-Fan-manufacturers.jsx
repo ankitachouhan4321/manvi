@@ -6,11 +6,11 @@ import { Helmet } from "react-helmet-async";
 
 
 
-const Cabinetfanmanufacturers = () => {
+const CentrifugalFanmanufacturers = () => {
     return (
         <>
             <Helmet>
-                <title>Cabinet Fan | Manvi Engineers </title>
+                <title>Centrifugal Fan | Manvi Engineers </title>
             </Helmet>
 
             {/* breadcrumb start  */}
@@ -31,7 +31,7 @@ const Cabinetfanmanufacturers = () => {
                     <nav aria-label="breadcrumb">
                         <ol className="breadcrumb">
                             <li className="breadcrumb-item active" aria-current="page">
-                                <h1>Cabinet Fan</h1>
+                                <h1>Centrifugal Fan</h1>
                             </li>
                         </ol>
                     </nav>
@@ -105,4 +105,4 @@ const Cabinetfanmanufacturers = () => {
     );
 };
 
-export default Cabinetfanmanufacturers;
+export default CentrifugalFanmanufacturers;

@@ -11,6 +11,8 @@ import gallery3 from "/gallery/3.jpg"
 import gallery4 from "/gallery/4.jpg"
 import gallery5 from "/gallery/5.jpg"
 import gallery6 from "/gallery/6.jpg"
+import gallery7 from "/gallery/7.jpg"
+
 
 
 
@@ -30,11 +32,6 @@ const Gallerysec = () => {
         },
 
         {
-            image: gallery3,
-            // title: "Industrial Air Washer"
-        },
-
-        {
             image: gallery4,
             // title: "HVAC Solution"
         },
@@ -46,6 +43,10 @@ const Gallerysec = () => {
 
         {
             image: gallery6,
+            // title: "Cooling Pad"
+        },
+        {
+            image: gallery7,
             // title: "Cooling Pad"
         }
 

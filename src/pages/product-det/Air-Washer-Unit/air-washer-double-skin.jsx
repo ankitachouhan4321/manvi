@@ -6,9 +6,11 @@ const Airwasherdoubleskinmanufacturers = () => {
 
     const images = [
         "/Air-Washer-Unit/1.jpg",
-        // "/Air-Washer-Unit/1.1.jpg",
-        // "/Air-Washer-Unit/1.2.jpg",
-        // "/Air-Washer-Unit/1.3.jpg",
+        "/Air-Washer-Unit/1.1.jpg",
+        "/Air-Washer-Unit/1.2.jpg",
+        "/Air-Washer-Unit/1.3.jpg",
+        "/Air-Washer-Unit/1.4.jpg",
+
 
     ];
 

@@ -6,9 +6,6 @@ const Wetscrubberssystem = () => {
 
     const images = [
         "/Wet-Scrubber/1.jpg",
-        "/Wet-Scrubber/1.1.jpg",
-        // "/Wet-Scrubber/1.2.jpg",
-        // "/Wet-Scrubber/1.3.jpg",
 
     ];
 

@@ -2,12 +2,16 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 
-const Directdrivecentrifugalfanmanufacturers = () => {
+const ChilledWaterCoilForAHU = () => {
 
     const images = [
-        "/Cabinet-Fan-Manufacturers/2.jpg",
+        "/AHU-Coil-and-Cooling-Coil/2.jpg",
+        "/AHU-Coil-and-Cooling-Coil/2.1.jpg",
+        "/AHU-Coil-and-Cooling-Coil/2.2.jpg",
+        "/AHU-Coil-and-Cooling-Coil/2.3.jpg",
 
     ];
+
 
     const [mainImage, setMainImage] = useState(images[0]);
 
@@ -23,7 +27,7 @@ const Directdrivecentrifugalfanmanufacturers = () => {
                         <ol className="breadcrumb">
                             <div className="link-box">
                                 <li className="breadcrumb-item"><Link to="/">Home</Link></li>
-                                <li className="breadcrumb-item"><Link to="/cabinet-fan-manufacturers">Cabinet Fan</Link></li>
+                                <li className="breadcrumb-item"><Link to="/ahu-coil-and-cooling-coil-manufacturers">Ahu Coil And Cooling Coil</Link></li>
                             </div>
                         </ol>
                     </nav>
@@ -32,7 +36,7 @@ const Directdrivecentrifugalfanmanufacturers = () => {
                     <nav aria-label="breadcrumb">
                         <ol className="breadcrumb">
                             <li className="breadcrumb-item active" aria-current="page">
-                                <h1>Direct Drive Centrifugal Fan</h1>
+                                <h1>Chilled Water Coil For AHU</h1>
                             </li>
                         </ol>
                     </nav>
@@ -86,53 +90,54 @@ const Directdrivecentrifugalfanmanufacturers = () => {
                         <div className="col-lg-7">
 
                             <h2 className="heading">
-                                Direct Drive Centrifugal Fans Manufacturers in Delhi
+                                Chilled Water Coil For AHU Manufacturers in Delhi
                             </h2>
 
                             <div className="title-line"></div>
 
                             <p>
-                                Manvi Engineers manufactures premium-quality Direct Drive Centrifugal Fans
-                                designed to deliver efficient airflow, reliable ventilation, and superior
-                                performance across a wide range of industrial and commercial applications.
-                                Built with advanced engineering and high-quality components, these fans ensure
-                                consistent air movement while maintaining low noise levels and high operational
-                                efficiency.
+                                Manvi Engineers is a trusted manufacturer of
+                                high-quality <strong>Chilled Water Coils For AHU</strong> in
+                                Delhi, designed to deliver efficient heat transfer
+                                and reliable cooling performance in HVAC systems.
+                                Our chilled water cooling coils help maintain
+                                comfortable indoor temperatures by transferring
+                                heat from the air to the chilled water circulating
+                                through the coil.
                             </p>
 
                             <p>
-                                Our Direct Drive Centrifugal Fans feature a direct motor-to-impeller connection,
-                                eliminating the need for belt drives and significantly reducing maintenance
-                                requirements. Their compact design, robust construction, and energy-efficient
-                                operation make them an ideal solution for factories, warehouses, workshops,
-                                HVAC systems, manufacturing plants, and other ventilation applications.
-                            </p>
-
-                            <p>
-                                Designed for continuous operation in demanding environments, these centrifugal
-                                fans provide high airflow, reliable performance, and long service life. They
-                                are available in various sizes and capacities to meet the specific ventilation
-                                requirements of different industrial facilities.
+                                Manufactured using high-quality copper tubes and
+                                durable fin materials, our Chilled Water Coils
+                                provide excellent thermal efficiency, reliable
+                                operation, and long-lasting performance. These
+                                coils are widely used in Air Handling Units (AHUs)
+                                installed in commercial buildings, hospitals,
+                                hotels, shopping malls, factories, and industrial
+                                HVAC applications.
                             </p>
 
                             <h4 className="mt-4">
-                                Key Features of Direct Drive Centrifugal Fans
+                                Key Features of Chilled Water Coils For AHU
                             </h4>
 
                             <ul className="feature-list">
-                                <li>High-Efficiency Air Circulation and Ventilation</li>
-                                <li>Direct Drive Design for Reduced Maintenance</li>
-                                <li>Heavy-Duty and Corrosion-Resistant Construction</li>
-                                <li>Energy-Efficient and Low Noise Operation</li>
-                                <li>Suitable for Industrial, Commercial, and HVAC Applications</li>
-                                <li>Available in Multiple Sizes and Performance Capacities</li>
+                                <li>High-Efficiency Heat Transfer and Cooling</li>
+                                <li>Durable Copper Tube Construction</li>
+                                <li>Efficient Air-to-Water Heat Exchange</li>
+                                <li>Energy-Efficient Cooling Performance</li>
+                                <li>Suitable for Commercial and Industrial AHUs</li>
+                                <li>Customizable Coil Sizes and Configurations</li>
+                                <li>Low Maintenance and Long Service Life</li>
                             </ul>
 
                             <p className="mt-3">
-                                Every Direct Drive Centrifugal Fan is manufactured under strict quality
-                                control standards to ensure durability, dependable performance, and maximum
-                                operational efficiency. Our fans are engineered to provide long-lasting
-                                ventilation solutions that enhance workplace safety, airflow, and productivity.
+                                At Manvi Engineers, our Chilled Water Coils For AHU
+                                are designed to meet the cooling requirements of
+                                modern HVAC systems. With durable construction,
+                                efficient heat exchange, and dependable performance,
+                                these coils help improve cooling efficiency and
+                                maintain consistent indoor temperature control.
                             </p>
 
                             <div className="mt-5">
@@ -145,56 +150,66 @@ const Directdrivecentrifugalfanmanufacturers = () => {
                             </div>
 
                         </div>
+
                     </div>
 
 
                     {/* Specification */}
+
 
                     <div className="row mt-5">
 
                         <div className="col-lg-12">
 
                             <h3 className="mb-4 fw-bold">
-                                Product Specifications
+                                Chilled Water Coil For AHU Specifications
                             </h3>
 
                             <table className="table table-responsive table-striped table-hover table-bordered">
                                 <tbody>
                                     <tr>
-                                        <td>Type</td>
-                                        <td>Centrifugal Fan</td>
+                                        <td>Product Name</td>
+                                        <td>Chilled Water Coil For AHU</td>
                                     </tr>
                                     <tr>
-                                        <td>Motor Power</td>
-                                        <td>1-3 kW</td>
+                                        <td>Manufacturer</td>
+                                        <td>Manvi Engineers</td>
                                     </tr>
                                     <tr>
-                                        <td>Blade Material</td>
-                                        <td>GI</td>
+                                        <td>Coil Type</td>
+                                        <td>Chilled Water Cooling Coil</td>
                                     </tr>
                                     <tr>
-                                        <td>Mounting Type</td>
-                                        <td>Duct</td>
+                                        <td>Coil Material</td>
+                                        <td>Copper</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fin Material</td>
+                                        <td>Stainless Steel (SS)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Coating</td>
+                                        <td>Polished</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cooling Medium</td>
+                                        <td>Chilled Water</td>
                                     </tr>
                                     <tr>
                                         <td>Usage/Application</td>
-                                        <td>Commercial</td>
+                                        <td>Air Handling Units (AHU), HVAC Systems</td>
                                     </tr>
                                     <tr>
-                                        <td>Automation Grade</td>
-                                        <td>Manual</td>
+                                        <td>Coil Dimensions</td>
+                                        <td>As per Requirement</td>
                                     </tr>
                                     <tr>
-                                        <td>Is It Customized</td>
-                                        <td>Customized</td>
-                                    </tr>
-                                    <tr>
-                                        <td>I Deal In</td>
-                                        <td>New Only</td>
+                                        <td>Country of Origin</td>
+                                        <td>Made in India</td>
                                     </tr>
                                     <tr>
                                         <td>Product Price</td>
-                                        <td>Rs 22,500&nbsp;/&nbsp;Piece</td>
+                                        <td>Rs 750 / Sq ft</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -211,4 +226,4 @@ const Directdrivecentrifugalfanmanufacturers = () => {
     );
 };
 
-export default Directdrivecentrifugalfanmanufacturers;
+export default ChilledWaterCoilForAHU;

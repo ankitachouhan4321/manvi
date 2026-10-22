@@ -34,10 +34,7 @@ const Gallery = () => {
             // title: "Cooling System"
         },
 
-        {
-            image: gallery3,
-            // title: "Industrial Air Washer"
-        },
+     
 
         {
             image: gallery4,

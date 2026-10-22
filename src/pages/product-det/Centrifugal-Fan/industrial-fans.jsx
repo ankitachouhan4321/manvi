@@ -27,7 +27,7 @@ const Industrialfansmanufacturers = () => {
                         <ol className="breadcrumb">
                             <div className="link-box">
                                 <li className="breadcrumb-item"><Link to="/">Home</Link></li>
-                                <li className="breadcrumb-item"><Link to="/cabinet-fan-manufacturers">Cabinet Fan</Link></li>
+                                <li className="breadcrumb-item"><Link to="/centrifugal-fan-manufacturers">Centrifugal Fan</Link></li>
                             </div>
                         </ol>
                     </nav>

@@ -149,9 +149,9 @@ const Footer = () => {
                             <h3>Our Products</h3>
 
                             <ul className="footer-links list-unstyled">
- <li><a href="/air-louvers-manufacturers">Air Louvers</a></li>
+                                <li><a href="/air-louvers-manufacturers">Air Louvers</a></li>
                                 <li><a href="/ahu-manufacturers">AHU Manufacturers </a></li>
-                                <li><a href="/cabinet-fan-manufacturers">Cabinet Fan </a></li>
+                                <li><a href="/centrifugal-fan-manufacturers">Centrifugal Fan </a></li>
                                 <li><a href="/double-skin-air-washer-manufacturers">Double Skin Air Washer </a></li>
                                 <li><a href="/air-washer-unit-manufacturers">Air Washer Unit </a></li>
                                 <li><a href="/ahu-coil-and-cooling-coil-manufacturers">Ahu Coil And Cooling Coil </a></li>
@@ -168,7 +168,7 @@ const Footer = () => {
 
                             <ul className="footer-links list-unstyled">
 
-                               
+
                                 <li><a href="/axial-flow-fan-manufacturers">Axial Flow Fan </a></li>
                                 <li><a href="/kitchen-exhaust-systems-manufacturers">Kitchen Exhaust System </a></li>
                                 <li><a href="/fan-coil-unit-manufacturers">Fan Coil Unit </a></li>

@@ -154,8 +154,8 @@ const Navbar = () => {
 
                     {/*  Cabinet Fan */}
                     <li className="dropdown-submenu">
-                      <Link className="dropdown-item dropdown-toggle" to="cabinet-fan-manufacturers">
-                        Cabinet Fan
+                      <Link className="dropdown-item dropdown-toggle" to="centrifugal-fan-manufacturers">
+                        Centrifugal Fan
                       </Link>
 
                       <ul className="dropdown-menu">
@@ -197,8 +197,8 @@ const Navbar = () => {
                       </Link>
 
                       <ul className="dropdown-menu">
-                        <li><Link className="dropdown-item" to="/industrial-ahu-cooling-coil">Industrial AHU Cooling Coil Manufacturers</Link></li>
-                        <li><Link className="dropdown-item" to="/chilled-water-coil-ahu">Chilled Water Coil Ahu Manufacturers</Link></li>
+                        <li><Link className="dropdown-item" to="/dx-cooling-coil">DX Cooling Coil Manufacturers</Link></li>
+                        <li><Link className="dropdown-item" to="/chilled-water-coil-for-ahu">Chilled Water Coil For AHU Manufacturers</Link></li>
                       </ul>
                     </li>
 

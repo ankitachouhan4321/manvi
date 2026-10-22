@@ -2,16 +2,12 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 
-const Chilledwatercoilahumanufacturers = () => {
+const Ductdirectdrivecentrifugalfansmanufacturers = () => {
 
     const images = [
-        "/AHU-Coil-and-Cooling-Coil/2.jpg",
-        "/AHU-Coil-and-Cooling-Coil/2.1.jpg",
-        "/AHU-Coil-and-Cooling-Coil/2.2.jpg",
-        "/AHU-Coil-and-Cooling-Coil/2.3.jpg",
+        "/Cabinet-Fan-Manufacturers/3.jpg",
 
     ];
-
 
     const [mainImage, setMainImage] = useState(images[0]);
 
@@ -27,7 +23,7 @@ const Chilledwatercoilahumanufacturers = () => {
                         <ol className="breadcrumb">
                             <div className="link-box">
                                 <li className="breadcrumb-item"><Link to="/">Home</Link></li>
-                                <li className="breadcrumb-item"><Link to="/ahu-coil-and-cooling-coil-manufacturers">Ahu Coil And Cooling Coil</Link></li>
+                                <li className="breadcrumb-item"><Link to="/centrifugal-fan-manufacturers">Centrifugal Fan</Link></li>
                             </div>
                         </ol>
                     </nav>
@@ -36,7 +32,7 @@ const Chilledwatercoilahumanufacturers = () => {
                     <nav aria-label="breadcrumb">
                         <ol className="breadcrumb">
                             <li className="breadcrumb-item active" aria-current="page">
-                                <h1>Chilled Water Coil Ahu</h1>
+                                <h1>Duct Direct Drive Centrifugal Fans</h1>
                             </li>
                         </ol>
                     </nav>
@@ -90,33 +86,41 @@ const Chilledwatercoilahumanufacturers = () => {
                         <div className="col-lg-7">
 
                             <h2 className="heading">
-                                Chilled Water Coil AHU Manufacturers in Delhi
+                                Duct Direct Drive Centrifugal Fans Manufacturers in Delhi
                             </h2>
 
                             <div className="title-line"></div>
 
                             <p>
-                                Manvi Engineers manufactures premium-quality <strong>Chilled Water Coil Air Handling Units (AHUs)</strong> designed to deliver efficient cooling and reliable air distribution for commercial, industrial, and institutional applications. Built under our trusted <strong>Cool Air</strong> brand, these AHUs ensure consistent indoor comfort and superior HVAC performance.
+                                Manvi Engineers manufactures high-quality Duct Direct Drive Centrifugal Fans
+                                designed for efficient airflow and reliable ventilation in industrial and
+                                commercial duct systems. Built with precision engineering, these fans deliver
+                                consistent performance, energy efficiency, and long service life.
                             </p>
 
                             <p>
-                                Engineered with high-quality chilled water coils and robust construction, our AHUs provide excellent heat exchange, energy-efficient operation, and dependable performance. They are ideal for offices, hospitals, hotels, shopping malls, manufacturing facilities, and other temperature-controlled environments.
+                                Featuring a direct drive design, these fans eliminate the need for belt drives,
+                                resulting in lower maintenance and improved operational efficiency. They are
+                                ideal for factories, warehouses, workshops, HVAC systems, and manufacturing
+                                facilities requiring controlled air circulation.
                             </p>
 
                             <h4 className="mt-4">
-                                Key Features of Chilled Water Coil AHUs
+                                Key Features of Duct Direct Drive Centrifugal Fans
                             </h4>
 
                             <ul className="feature-list">
-                                <li>Efficient Heat Exchange with Chilled Water Coils</li>
-                                <li>Robust and Durable Construction</li>
-                                <li>Energy-Efficient Cooling Performance</li>
-                                <li>Suitable for Commercial, Industrial, and Institutional Applications</li>
-                                <li>Low Maintenance and Long Service Life</li>
+                                <li>Precise Airflow Control</li>
+                                <li>Direct Drive Low-Maintenance Design</li>
+                                <li>Energy-Efficient Performance</li>
+                                <li>Heavy-Duty and Durable Construction</li>
+                                <li>Suitable for Industrial and HVAC Applications</li>
                             </ul>
 
                             <p className="mt-3">
-                                Every Chilled Water Coil AHU is manufactured and tested under strict quality standards to ensure reliable performance, energy efficiency, and long-lasting operation for modern HVAC systems.
+                                Every Duct Direct Drive Centrifugal Fan is tested to ensure reliable
+                                performance, durability, and efficient ventilation for a wide range of
+                                industrial applications.
                             </p>
 
                             <div className="mt-5">
@@ -146,20 +150,16 @@ const Chilledwatercoilahumanufacturers = () => {
                             <table className="table table-responsive table-striped table-hover table-bordered">
                                 <tbody>
                                     <tr>
-                                        <td>Coating</td>
-                                        <td>Polished</td>
+                                        <td>Type</td>
+                                        <td>Centrifugal Fan</td>
                                     </tr>
                                     <tr>
-                                        <td>Coil Material</td>
-                                        <td>Copper</td>
+                                        <td>Capacity</td>
+                                        <td>751-1000CFM</td>
                                     </tr>
                                     <tr>
-                                        <td>Fin Material</td>
-                                        <td>Stainless Steel (SS)</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Usage/Application</td>
-                                        <td>AHU</td>
+                                        <td>Brand</td>
+                                        <td>DD</td>
                                     </tr>
                                     <tr>
                                         <td>Country of Origin</td>
@@ -167,7 +167,7 @@ const Chilledwatercoilahumanufacturers = () => {
                                     </tr>
                                     <tr>
                                         <td>Product Price</td>
-                                        <td>Rs 750&nbsp;/&nbsp;Sq ft</td>
+                                        <td>Rs 12,500&nbsp;/&nbsp;Piece</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -184,4 +184,4 @@ const Chilledwatercoilahumanufacturers = () => {
     );
 };
 
-export default Chilledwatercoilahumanufacturers;
+export default Ductdirectdrivecentrifugalfansmanufacturers;

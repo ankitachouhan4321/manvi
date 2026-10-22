@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 
-const Industrialahucoolingcoilmanufacturers = () => {
+const DXCoolingCoil = () => {
 
     const images = [
         "/AHU-Coil-and-Cooling-Coil/1.jpg",
@@ -35,7 +35,7 @@ const Industrialahucoolingcoilmanufacturers = () => {
                     <nav aria-label="breadcrumb">
                         <ol className="breadcrumb">
                             <li className="breadcrumb-item active" aria-current="page">
-                                <h1>Industrial AHU Cooling Coil</h1>
+                                <h1>DX Cooling Coil</h1>
                             </li>
                         </ol>
                     </nav>
@@ -89,41 +89,49 @@ const Industrialahucoolingcoilmanufacturers = () => {
                         <div className="col-lg-7">
 
                             <h2 className="heading">
-                                Industrial AHU Cooling Coil Solutions Manufacturers in Delhi
+                                DX Cooling Coil Manufacturers in Delhi
                             </h2>
 
                             <div className="title-line"></div>
 
                             <p>
-                                Manvi Engineers manufactures premium-quality Industrial AHU Cooling Coils
-                                designed to deliver efficient heat transfer and reliable cooling performance
-                                in air handling units. Manufactured using high-grade materials, these coils
-                                ensure maximum durability, energy efficiency, and long-lasting operation.
+                                Manvi Engineers is a trusted manufacturer of high-quality
+                                DX Cooling Coils in Delhi, designed to provide efficient
+                                cooling and effective heat transfer in HVAC systems.
+                                Our Direct Expansion Cooling Coils use refrigerant to
+                                absorb heat from the air, ensuring reliable temperature
+                                control and consistent cooling performance.
                             </p>
 
                             <p>
-                                Our Industrial AHU Cooling Coils are widely used in factories, commercial
-                                buildings, warehouses, hospitals, and industrial HVAC systems. Engineered
-                                for consistent airflow and effective temperature control, they help improve
-                                overall cooling efficiency while reducing energy consumption.
+                                Our DX Cooling Coils are suitable for air handling units
+                                (AHUs), commercial buildings, industrial facilities,
+                                hospitals, hotels, and other HVAC applications.
+                                Manufactured using quality copper tubes and aluminium
+                                fins, these coils offer excellent heat transfer,
+                                durable construction, and energy-efficient operation.
                             </p>
 
                             <h4 className="mt-4">
-                                Key Features of Industrial AHU Cooling Coils
+                                Key Features of DX Cooling Coils
                             </h4>
 
                             <ul className="feature-list">
-                                <li>High-Efficiency Heat Transfer</li>
-                                <li>Durable and Corrosion-Resistant Construction</li>
-                                <li>Energy-Efficient Cooling Performance</li>
-                                <li>Suitable for Industrial and Commercial AHU Systems</li>
-                                <li>Low Maintenance and Long Service Life</li>
+                                <li>Efficient Direct Expansion Refrigerant Cooling</li>
+                                <li>High-Performance Copper Tubes and Aluminium Fins</li>
+                                <li>Excellent Heat Transfer and Cooling Efficiency</li>
+                                <li>Suitable for Commercial and Industrial HVAC Systems</li>
+                                <li>Customizable Sizes and Cooling Capacities</li>
+                                <li>Durable Construction and Low Maintenance</li>
                             </ul>
 
                             <p className="mt-3">
-                                Every Industrial AHU Cooling Coil is manufactured and tested to ensure
-                                dependable performance, efficient cooling, and reliable operation, making
-                                it an ideal solution for modern HVAC and air handling applications.
+                                At Manvi Engineers, our DX Cooling Coils are designed
+                                to meet the cooling requirements of modern air
+                                conditioning and ventilation systems. With reliable
+                                construction and efficient heat transfer, our coils
+                                help maintain comfortable indoor temperatures and
+                                support long-lasting HVAC performance.
                             </p>
 
                             <div className="mt-5">
@@ -147,42 +155,54 @@ const Industrialahucoolingcoilmanufacturers = () => {
                         <div className="col-lg-12">
 
                             <h3 className="mb-4 fw-bold">
-                                Product Specifications
+                                DX Cooling Coil Specifications
                             </h3>
 
                             <table className="table table-responsive table-striped table-hover table-bordered">
                                 <tbody>
                                     <tr>
-                                        <td>Type Of Power Source</td>
-                                        <td>AC</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Material</td>
-                                        <td>Copper</td>
+                                        <td>Product Name</td>
+                                        <td>DX Cooling Coil</td>
                                     </tr>
                                     <tr>
                                         <td>Brand</td>
-                                        <td>CooLAir</td>
+                                        <td>Manvi Engineers</td>
                                     </tr>
                                     <tr>
-                                        <td>Color</td>
-                                        <td>Blue</td>
+                                        <td>Cooling Type</td>
+                                        <td>Direct Expansion (DX)</td>
                                     </tr>
                                     <tr>
-                                        <td>Height</td>
-                                        <td>508</td>
+                                        <td>Tube Material</td>
+                                        <td>Copper</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fin Material</td>
+                                        <td>Aluminium</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Refrigerant</td>
+                                        <td>As per System Compatibility</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cooling Capacity</td>
+                                        <td>As per Requirement</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Coil Dimensions</td>
+                                        <td>Customized as per Requirement</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Application</td>
+                                        <td>AHU, HVAC and Air Conditioning Systems</td>
                                     </tr>
                                     <tr>
                                         <td>Country of Origin</td>
                                         <td>Made in India</td>
                                     </tr>
                                     <tr>
-                                        <td>Lenght</td>
-                                        <td>1200</td>
-                                    </tr>
-                                    <tr>
                                         <td>Product Price</td>
-                                        <td>Rs 825&nbsp;/&nbsp;Square Feet</td>
+                                        <td>On Request</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -199,4 +219,4 @@ const Industrialahucoolingcoilmanufacturers = () => {
     );
 };
 
-export default Industrialahucoolingcoilmanufacturers;
+export default DXCoolingCoil;

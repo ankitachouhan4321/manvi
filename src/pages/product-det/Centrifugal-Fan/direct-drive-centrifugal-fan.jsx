@@ -2,10 +2,10 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 
-const Ductdirectdrivecentrifugalfansmanufacturers = () => {
+const Directdrivecentrifugalfanmanufacturers = () => {
 
     const images = [
-        "/Cabinet-Fan-Manufacturers/3.jpg",
+        "/Cabinet-Fan-Manufacturers/2.jpg",
 
     ];
 
@@ -23,7 +23,7 @@ const Ductdirectdrivecentrifugalfansmanufacturers = () => {
                         <ol className="breadcrumb">
                             <div className="link-box">
                                 <li className="breadcrumb-item"><Link to="/">Home</Link></li>
-                                <li className="breadcrumb-item"><Link to="/cabinet-fan-manufacturers">Cabinet Fan</Link></li>
+                                <li className="breadcrumb-item"><Link to="/centrifugal-fan-manufacturers">Centrifugal Fan</Link></li>
                             </div>
                         </ol>
                     </nav>
@@ -32,7 +32,7 @@ const Ductdirectdrivecentrifugalfansmanufacturers = () => {
                     <nav aria-label="breadcrumb">
                         <ol className="breadcrumb">
                             <li className="breadcrumb-item active" aria-current="page">
-                                <h1>Duct Direct Drive Centrifugal Fans</h1>
+                                <h1>Direct Drive Centrifugal Fan</h1>
                             </li>
                         </ol>
                     </nav>
@@ -86,41 +86,53 @@ const Ductdirectdrivecentrifugalfansmanufacturers = () => {
                         <div className="col-lg-7">
 
                             <h2 className="heading">
-                                Duct Direct Drive Centrifugal Fans Manufacturers in Delhi
+                                Direct Drive Centrifugal Fans Manufacturers in Delhi
                             </h2>
 
                             <div className="title-line"></div>
 
                             <p>
-                                Manvi Engineers manufactures high-quality Duct Direct Drive Centrifugal Fans
-                                designed for efficient airflow and reliable ventilation in industrial and
-                                commercial duct systems. Built with precision engineering, these fans deliver
-                                consistent performance, energy efficiency, and long service life.
+                                Manvi Engineers manufactures premium-quality Direct Drive Centrifugal Fans
+                                designed to deliver efficient airflow, reliable ventilation, and superior
+                                performance across a wide range of industrial and commercial applications.
+                                Built with advanced engineering and high-quality components, these fans ensure
+                                consistent air movement while maintaining low noise levels and high operational
+                                efficiency.
                             </p>
 
                             <p>
-                                Featuring a direct drive design, these fans eliminate the need for belt drives,
-                                resulting in lower maintenance and improved operational efficiency. They are
-                                ideal for factories, warehouses, workshops, HVAC systems, and manufacturing
-                                facilities requiring controlled air circulation.
+                                Our Direct Drive Centrifugal Fans feature a direct motor-to-impeller connection,
+                                eliminating the need for belt drives and significantly reducing maintenance
+                                requirements. Their compact design, robust construction, and energy-efficient
+                                operation make them an ideal solution for factories, warehouses, workshops,
+                                HVAC systems, manufacturing plants, and other ventilation applications.
+                            </p>
+
+                            <p>
+                                Designed for continuous operation in demanding environments, these centrifugal
+                                fans provide high airflow, reliable performance, and long service life. They
+                                are available in various sizes and capacities to meet the specific ventilation
+                                requirements of different industrial facilities.
                             </p>
 
                             <h4 className="mt-4">
-                                Key Features of Duct Direct Drive Centrifugal Fans
+                                Key Features of Direct Drive Centrifugal Fans
                             </h4>
 
                             <ul className="feature-list">
-                                <li>Precise Airflow Control</li>
-                                <li>Direct Drive Low-Maintenance Design</li>
-                                <li>Energy-Efficient Performance</li>
-                                <li>Heavy-Duty and Durable Construction</li>
-                                <li>Suitable for Industrial and HVAC Applications</li>
+                                <li>High-Efficiency Air Circulation and Ventilation</li>
+                                <li>Direct Drive Design for Reduced Maintenance</li>
+                                <li>Heavy-Duty and Corrosion-Resistant Construction</li>
+                                <li>Energy-Efficient and Low Noise Operation</li>
+                                <li>Suitable for Industrial, Commercial, and HVAC Applications</li>
+                                <li>Available in Multiple Sizes and Performance Capacities</li>
                             </ul>
 
                             <p className="mt-3">
-                                Every Duct Direct Drive Centrifugal Fan is tested to ensure reliable
-                                performance, durability, and efficient ventilation for a wide range of
-                                industrial applications.
+                                Every Direct Drive Centrifugal Fan is manufactured under strict quality
+                                control standards to ensure durability, dependable performance, and maximum
+                                operational efficiency. Our fans are engineered to provide long-lasting
+                                ventilation solutions that enhance workplace safety, airflow, and productivity.
                             </p>
 
                             <div className="mt-5">
@@ -133,7 +145,6 @@ const Ductdirectdrivecentrifugalfansmanufacturers = () => {
                             </div>
 
                         </div>
-
                     </div>
 
 
@@ -154,20 +165,36 @@ const Ductdirectdrivecentrifugalfansmanufacturers = () => {
                                         <td>Centrifugal Fan</td>
                                     </tr>
                                     <tr>
-                                        <td>Capacity</td>
-                                        <td>751-1000CFM</td>
+                                        <td>Motor Power</td>
+                                        <td>1-3 kW</td>
                                     </tr>
                                     <tr>
-                                        <td>Brand</td>
-                                        <td>DD</td>
+                                        <td>Blade Material</td>
+                                        <td>GI</td>
                                     </tr>
                                     <tr>
-                                        <td>Country of Origin</td>
-                                        <td>Made in India</td>
+                                        <td>Mounting Type</td>
+                                        <td>Duct</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Usage/Application</td>
+                                        <td>Commercial</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Automation Grade</td>
+                                        <td>Manual</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Is It Customized</td>
+                                        <td>Customized</td>
+                                    </tr>
+                                    <tr>
+                                        <td>I Deal In</td>
+                                        <td>New Only</td>
                                     </tr>
                                     <tr>
                                         <td>Product Price</td>
-                                        <td>Rs 12,500&nbsp;/&nbsp;Piece</td>
+                                        <td>Rs 22,500&nbsp;/&nbsp;Piece</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -184,4 +211,4 @@ const Ductdirectdrivecentrifugalfansmanufacturers = () => {
     );
 };
 
-export default Ductdirectdrivecentrifugalfansmanufacturers;
+export default Directdrivecentrifugalfanmanufacturers;

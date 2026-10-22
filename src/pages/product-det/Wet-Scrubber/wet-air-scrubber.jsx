@@ -6,10 +6,7 @@ const Wetairscrubber = () => {
 
     const images = [
         "/Wet-Scrubber/2.jpg",
-        "/Wet-Scrubber/2.1.jpg",
-        // "/Wet-Scrubber/2.2.jpg",
-        // "/Wet-Scrubber/2.3.jpg",
-
+      
     ];
 
     const [mainImage, setMainImage] = useState(images[0]);

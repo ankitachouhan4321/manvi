@@ -64,21 +64,7 @@ const Airwasherunitmanufacturers = () => {
                             </div>
                         </div>
 
-                        {/* card start */}
-                        {/* <div className="col-lg-3 col-sm-6">
-                            <div className="main-box">
-                                <img src="/Air-Washer-Unit/2.jpg" className="card-img" alt="Air Washer Manufacturers" />
-                                <h5 className="text-center">Air Washer Manufacturers</h5>
-                                <div className="card-text text-center">
-                                    We manufacture high-quality Air Washer systems designed to deliver fresh air, energy-efficient cooling, and long-lasting HVAC performance.
-                                </div>
-                                <button className="btn-main">
-                                    <a href="Moly-Metal.html">
-                                        <i className="fa-solid fa-arrow-right"></i> View More
-                                    </a>
-                                </button>
-                            </div>
-                        </div> */}
+                     
 
                     </div>
                 </div>

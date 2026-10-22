@@ -27,7 +27,7 @@ const Contact = () => {
         e.preventDefault();
         setIsSubmitting(true);
 
-        const YOUR_EMAIL = "info@manviengineers.com";
+        const YOUR_EMAIL = "info.viraladsmedia@gmail.com";
 
         const form = new FormData();
 

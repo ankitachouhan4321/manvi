@@ -37,6 +37,7 @@ import gallery8 from "/gallery/8.jpg"
 
 
 
+
 import { Navigation, Pagination, Autoplay } from "swiper/modules";
 
 const Home = () => {
@@ -432,7 +433,7 @@ const Home = () => {
                                     <div>
 
                                         <div className="mission-icon">
-                                            <i className="fa-solid fa-wind"></i>
+                                            <img src="white-logo.png"/>
                                         </div>
 
                                         <h3>
