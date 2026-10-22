@@ -59,7 +59,6 @@ import ChilledWaterCoilForAHU from "./pages/product-det/Ahu-Coil-And-Cooling-Coi
 import Tubeaxialflowfan from "./pages/product-det/Axial-Flow-Fan/tube-axial-flow-fan"
 import Tubeindustrialaxialflowfan from "./pages/product-det/Axial-Flow-Fan/tube-industrial-axial-flow-fan"
 
-
 import Kitchenexhaustsystem from "./pages/product-det/Kitchen-Exhaust-System/kitchen-exhaust-system"
 import Commercialkitchenexhaustsystem from "./pages/product-det/Kitchen-Exhaust-System/commercial-kitchen-exhaust-system"
 
@@ -72,7 +71,6 @@ import Wetscrubberssystem from "./pages/product-det/Wet-Scrubber/wet-scrubbers-s
 import Wetairscrubber from "./pages/product-det/Wet-Scrubber/wet-air-scrubber"
 
 import Cabinettypeairexhaustunit from "./pages/product-det/Air-Exhaust-Unit/cabinet-type-air-exhaust-unit"
-
 
 import Contact from "./pages/Contact";
 
@@ -149,7 +147,6 @@ function App() {
 
 
         <Route path="/cabinet-type-air-exhaust-unit" element={<Cabinettypeairexhaustunit />} />
-
 
 
       </Routes>
